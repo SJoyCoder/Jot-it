@@ -64,7 +64,7 @@ The following image shows the application's registered service worker:
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'Jate' in the browser.](./Assets/03-idb-storage.png)
 
 ## Grading Requirements
 
